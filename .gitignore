@@ -1,6 +1,5 @@
 .ipynb_checkpoints/
 dataset/
-7_custom_dataset_for_images/custom_datasets
-7_custom_dataset_for_images/__pycache__
-8_custom_dataset_for_text/custom_datasets
-8_custom_dataset_for_text/__pycache__
+
+__pycache__/
+custom_datasets
