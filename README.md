@@ -6,6 +6,7 @@ https://docs.pytorch.org/vision/stable/models/vgg.html
 https://pytorch.org/hub
 
 The following classification models are available, with or without pre-trained weights:
+
 - AlexNet
 - ConvNeXt
 - DenseNet
@@ -26,3 +27,7 @@ The following classification models are available, with or without pre-trained w
 - VGG
 - VisionTransformer
 - Wide ResNet
+
+Resources (Theory):
+
+http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf
