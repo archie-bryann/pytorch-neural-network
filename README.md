@@ -30,4 +30,8 @@ The following classification models are available, with or without pre-trained w
 
 Resources (Theory):
 
+LeNet Paper:
 http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf
+
+VGG Paper:
+https://arxiv.org/abs/1409.1556
