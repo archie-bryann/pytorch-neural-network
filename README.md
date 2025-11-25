@@ -35,3 +35,6 @@ http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf
 
 VGG Paper:
 https://arxiv.org/abs/1409.1556
+
+GoogLeNet / InceptionNet Paper:
+https://arxiv.org/abs/1409.4842
