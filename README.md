@@ -41,3 +41,9 @@ https://arxiv.org/abs/1409.4842
 
 ResNet Paper:
 https://arxiv.org/abs/1512.03385
+
+Tensorboard command:
+
+```bash
+tensorboard --logdir runs
+```
