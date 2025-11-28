@@ -42,6 +42,9 @@ https://arxiv.org/abs/1409.4842
 ResNet Paper:
 https://arxiv.org/abs/1512.03385
 
+Neural Style Transfer Paper (NST):
+https://arxiv.org/abs/1508.06576
+
 Tensorboard command:
 
 ```bash
