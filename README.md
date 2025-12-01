@@ -48,6 +48,9 @@ https://arxiv.org/abs/1508.06576
 GAN Paper:
 https://arxiv.org/abs/1406.2661
 
+DCGAN Paper:
+https://arxiv.org/abs/1511.06434
+
 Tensorboard command:
 
 ```bash

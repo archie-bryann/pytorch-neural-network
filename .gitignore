@@ -4,5 +4,6 @@ dataset/
 __pycache__/
 custom_datasets
 runs
+logs
 *.tar
 *.pth.tar
