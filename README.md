@@ -45,6 +45,9 @@ https://arxiv.org/abs/1512.03385
 Neural Style Transfer Paper (NST):
 https://arxiv.org/abs/1508.06576
 
+GAN Paper:
+https://arxiv.org/abs/1406.2661
+
 Tensorboard command:
 
 ```bash
