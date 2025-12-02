@@ -56,6 +56,10 @@ https://www.alexirpan.com/2017/02/22/wasserstein-gan.html
 https://arxiv.org/abs/1701.07875
 https://arxiv.org/abs/1704.00028
 
+Pix2Pix Paper:
+https://arxiv.org/abs/1611.07004
+https://www.youtube.com/watch?v=9SGs4Nm0VR4 (Walkthrough)
+
 Tensorboard command:
 
 ```bash
