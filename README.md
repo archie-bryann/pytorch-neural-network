@@ -51,6 +51,11 @@ https://arxiv.org/abs/1406.2661
 DCGAN Paper:
 https://arxiv.org/abs/1511.06434
 
+WGAN Resources and Papers:
+https://www.alexirpan.com/2017/02/22/wasserstein-gan.html
+https://arxiv.org/abs/1701.07875
+https://arxiv.org/abs/1704.00028
+
 Tensorboard command:
 
 ```bash
