@@ -60,6 +60,12 @@ Pix2Pix Paper:
 https://arxiv.org/abs/1611.07004
 https://www.youtube.com/watch?v=9SGs4Nm0VR4 (Walkthrough)
 
+Attention is all you need paper (Transformers):
+https://arxiv.org/abs/1706.03762
+
+A good blogpost on Transformers:
+http://www.peterbloem.nl/blog/transformers
+
 Tensorboard command:
 
 ```bash
