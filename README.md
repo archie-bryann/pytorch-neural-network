@@ -66,6 +66,9 @@ https://arxiv.org/abs/1706.03762
 A good blogpost on Transformers:
 http://www.peterbloem.nl/blog/transformers
 
+U-Net Paper:
+https://arxiv.org/abs/1505.04597
+
 Tensorboard command:
 
 ```bash
