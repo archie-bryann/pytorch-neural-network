@@ -77,10 +77,30 @@ tensorboard --logdir runs
 
 Pytorch Quick Tips
 
-1. Using float 16 or float 32, when training networks:
+1. Mixed Precision Training (FP16): Using float 16 or float 32, when training networks:
 
-```bash
-# batch_size = 1000 # FP32: 590, FP16: 1000
+```python
+batch_size = 1000 # FP32: 590, FP16: 1000
 ```
 
-2. 
+2. Progress Bar
+
+```python
+for data, targets in tqdm(train_loader): # Multiple Progress
+    pass
+``` 
+
+```python
+for data, targets in tqdm(train_loader, leave=False): # Single Progress
+    pass
+```
+
+```python
+for batch_idx, (data, targets) in tqdm(enumerate(train_loader), total=len(train_loader), leave=False):
+    pass
+
+loop = tqdm(enumerate(train_loader), total=len(train_loader), leave=False)
+for batch_idx, (data, targets) in loop:
+    loop.set_description(f"Epoch [{epoch}/{num_epochs}]")
+    loop.set_postfix(loss = loss.item(), acc=torch.rand(1).item()) # not accurate, but you can calculate the accuracy here
+```
