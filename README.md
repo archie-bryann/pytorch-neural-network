@@ -74,3 +74,9 @@ Tensorboard command:
 ```bash
 tensorboard --logdir runs
 ```
+
+Using float 16 or float 32, when training networks:
+
+```bash
+# batch_size = 1000 # FP32: 590, FP16: 1000
+```
